@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-Deployment/static/css/main.1764e982.chunk.css",
+    "main.js": "/react-Deployment/static/js/main.0514bdbb.chunk.js",
+    "runtime~main.js": "/react-Deployment/static/js/runtime~main.ba4c2396.js",
+    "static/css/2.f5852ac9.chunk.css": "/react-Deployment/static/css/2.f5852ac9.chunk.css",
+    "static/js/2.42b9dedc.chunk.js": "/react-Deployment/static/js/2.42b9dedc.chunk.js",
+    "index.html": "/react-Deployment/index.html",
+    "precache-manifest.3f87d8f18caa2f927584f676fd52e02f.js": "/react-Deployment/precache-manifest.3f87d8f18caa2f927584f676fd52e02f.js",
+    "service-worker.js": "/react-Deployment/service-worker.js",
+    "static/media/Capture.png": "/react-Deployment/static/media/Capture.0767d6d7.png",
+    "static/media/Capture1.png": "/react-Deployment/static/media/Capture1.bfb0988f.png",
+    "static/media/Cloud.svg": "/react-Deployment/static/media/Cloud.482cf0d9.svg",
+    "static/media/DJ.png": "/react-Deployment/static/media/DJ.a857ad85.png",
+    "static/media/Event.png": "/react-Deployment/static/media/Event.9b39e348.png",
+    "static/media/Exlcusive1.png": "/react-Deployment/static/media/Exlcusive1.5642c97d.png",
+    "static/media/index.css": "/react-Deployment/static/media/muli-latin-900italic.f99056b6.woff2",
+    "static/media/Merchandise1.png": "/react-Deployment/static/media/Merchandise1.e6695548.png",
+    "static/media/Poster1.png": "/react-Deployment/static/media/Poster1.e7606820.png",
+    "static/media/Poster2.png": "/react-Deployment/static/media/Poster2.16cd9f45.png",
+    "static/media/Product1.png": "/react-Deployment/static/media/Product1.1a244899.png",
+    "static/media/Product2.png": "/react-Deployment/static/media/Product2.3bf299c5.png",
+    "static/media/Shazam.svg": "/react-Deployment/static/media/Shazam.a6166c73.svg",
+    "static/media/Shoes.png": "/react-Deployment/static/media/Shoes.5da3012a.png",
+    "static/media/Spotify.svg": "/react-Deployment/static/media/Spotify.33b0b48e.svg",
+    "static/media/Sukhbir.png": "/react-Deployment/static/media/Sukhbir.04a29d32.png",
+    "static/media/Work2.png": "/react-Deployment/static/media/Work2.a13f0ddf.png",
+    "static/media/Youtube.svg": "/react-Deployment/static/media/Youtube.b6e8ed03.svg",
+    "static/media/sukhbir_profile.png": "/react-Deployment/static/media/sukhbir_profile.3d12f291.png"
+  }
+}
