@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/react-Deployment/static/css/main.1764e982.chunk.css",
-    "main.js": "/react-Deployment/static/js/main.0514bdbb.chunk.js",
+    "main.js": "/react-Deployment/static/js/main.b30d4896.chunk.js",
     "runtime~main.js": "/react-Deployment/static/js/runtime~main.ba4c2396.js",
     "static/css/2.f5852ac9.chunk.css": "/react-Deployment/static/css/2.f5852ac9.chunk.css",
-    "static/js/2.42b9dedc.chunk.js": "/react-Deployment/static/js/2.42b9dedc.chunk.js",
+    "static/js/2.1e18f533.chunk.js": "/react-Deployment/static/js/2.1e18f533.chunk.js",
     "index.html": "/react-Deployment/index.html",
-    "precache-manifest.3f87d8f18caa2f927584f676fd52e02f.js": "/react-Deployment/precache-manifest.3f87d8f18caa2f927584f676fd52e02f.js",
+    "precache-manifest.1998a6572bb8764ef05d364e5ff752d7.js": "/react-Deployment/precache-manifest.1998a6572bb8764ef05d364e5ff752d7.js",
     "service-worker.js": "/react-Deployment/service-worker.js",
     "static/media/Capture.png": "/react-Deployment/static/media/Capture.0767d6d7.png",
     "static/media/Capture1.png": "/react-Deployment/static/media/Capture1.bfb0988f.png",
